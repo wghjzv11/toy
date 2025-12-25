@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+tokens/
 develop-eggs/
 dist/
 downloads/
@@ -130,6 +131,9 @@ __pypackages__/
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid
+
+# databases
+*.db
 
 # SageMath parsed files
 *.sage.py
